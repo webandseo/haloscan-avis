@@ -49,7 +49,7 @@ Cette spécialisation dessine naturellement son public. Si tes clients ou tes pr
 
 ### Consultants SEO, freelances et agences
 
-Tu gères des clients en France ? Tu as besoin de données ultra-précises pour construire tes stratégies sémantiques. Voilà ce qu'[Haloscan](https://www.webandseo.fr/go-haloscan/) t'apporte concrètement :
+Tu gères des clients en France ? Tu as besoin de données ultra-précises pour construire tes stratégies sémantiques. Voilà [ce qu'Haloscan t'apporte concrètement](https://www.webandseo.fr/haloscan/) :
 
 - **Une base massive** : 260 millions de mots-clés français, la plus grande base du marché tricolore.
 - **Un accès API dès le forfait Starter** à environ 49 € HT par mois. Chez Semrush, ce droit de connexion suppose un forfait Business à plus de 400 $ par mois.
@@ -265,18 +265,19 @@ Si tu développes tes propres scripts ou si tu fais du SEO programmatique, l'éc
 
 ### Code promo WEBANDSEO : combien tu économises à vie
 
-J'ai négocié une réduction exclusive pour les lecteurs de mon blog.
+J'ai négocié une réduction exclusive avec la team Haloscan.
 
 ![Bannière du code promo Haloscan exclusif pour les lecteurs de Web & SEO](https://cdn.webandseo.fr/wp-content/uploads/2025/01/haloscan-coupon-min.png)
-*Le code WEBANDSEO : 8 % de réduction à vie sur tous les abonnements Haloscan.*
 
-Le code **WEBANDSEO** donne 8 % de réduction à vie, sur tous les abonnements, mensuels comme annuels.
+*Le code WEBANDSEO : 8 % de réduction à vie sur tous les abonnements Haloscan, mensuels comme annuels.*
 
 Voici le calcul complet sur un Starter annuel :
 
-Prix mensuel sans engagement : 59 € HT.
-Prix annuel (remise de 17 %) : environ 49,20 € HT par mois.
-Prix annuel + code WEBANDSEO (8 % supplémentaires) : 45,26 € HT par mois.
+• Prix mensuel sans engagement : 59 € HT.
+
+• Prix annuel (remise de 17 %) : environ 49,20 € HT par mois.
+
+• Prix annuel + code WEBANDSEO (8 % supplémentaires) : 45,26 € HT par mois.
 
 Sur une année pleine, tu paies environ 543 € HT au lieu de 708 € HT en mensuel sans engagement. Soit environ 165 € HT d'économie annuelle, uniquement en combinant engagement annuel et code promo. [Active le code WEBANDSEO sur Haloscan ici](https://www.webandseo.fr/go-haloscan/).
 
@@ -388,7 +389,7 @@ Choisis Haloscan si l'essentiel de ton trafic vient de Google.fr et que tu veux 
 
 Ahrefs reste la référence pour analyser les backlinks de tes concurrents : sa base de liens est la plus puissante du marché. Ses tarifs démarrent à $108 par mois en facturation annuelle. Les limites de crédits sont devenues strictes ces dernières années, ce qui pousse souvent à payer des suppléments.
 
-Haloscan ne propose pas encore d'analyse de backlinks. C'est sa limite actuelle.
+Haloscan ne propose pas encore d'analyse de backlinks, c'est sa limite actuelle.
 
 Sur tout le reste, la France, la recherche d'opportunités de mots-clés, le comparateur de SERP, la détection de domaines expirés, Haloscan prend l'avantage. Plus précis sur le marché francophone, beaucoup plus économique.
 
@@ -416,7 +417,7 @@ Le tableau ci-dessous synthétise ces quatre profils.
 
 | Outil | Budget minimal | Marché cible | Point fort | Point faible |
 |---|---|---|---|---|
-| **Haloscan** | 45,26 € / mois | France | Base sémantique FR massive, API incluse, prix bas | Pas d'analyse de backlinks |
+| **Haloscan** | 45,26 € / mois | France | Base sémantique FR massive, API incluse, prix bas | Pas d'analyse de backlinks pour le moment |
 | **Semrush** | $117 / mois | International | Suite tout-en-un, rapports automatisés | API hors de prix, données FR moins précises |
 | **Ahrefs** | $108 / mois | International | Analyse de backlinks ultra-puissante | Système de crédits restrictif, prix élevé |
 | **Ranxplorer** | 24 € / mois | France | Simplicité, tarif d'entrée imbattable, estimations de trafic fiables | Moins de fonctionnalités avancées qu'Haloscan |
